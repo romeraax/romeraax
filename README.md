@@ -1,7 +1,21 @@
-### Hi there 👋
+<h1>Hi, I'm Art <br/><a href="https://github.com/romeraax">Junior</a>, <a href="https://www.linkedin.com/in/art-romera-a38326261/">Cybersecurity Student</a>
+
+<h2>👨‍💻 Cybersecurity Projects Projects:</h2>
+
+- <b>[Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)</b>
+ 
+<h2> 📃 Certifications:</h2>
+- <b>Studying AWS Cloud Service Practitioner Certification</b>
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="ArtRomera | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[linkedin]: https://www.linkedin.com/in/art-romera-a38326261/
 
 <!--
-**romeraax/romeraax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
