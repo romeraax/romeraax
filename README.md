@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects Projects:</h2>
 
-- <b>[Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)</b>
+- <b>[Active Directory Home Lab](https://github.com/romeraax/ActiveDirectoryLab)</b>
  
 <h2> 📃 Certifications:</h2>
 - <b>Studying AWS Cloud Service Practitioner Certification</b>
