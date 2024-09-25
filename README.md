@@ -1,4 +1,4 @@
-<h1>Hi, I'm Art <br/><a href="https://github.com/romeraax">Senior</a>, <a href="https://www.linkedin.com/in/art-romera-a38326261/">Cybersecurity Student</a>
+<h1>Hi, I'm Art <br/><a href="https://github.com/romeraax">Senior</a>, <a href="https://www.linkedin.com/in/art-romera-a38326261/">Computer Information Systems, Cybersecurity Student at James Madison University</a>
 
 <h2>👨‍💻 Cybersecurity Projects Projects:</h2>
 
