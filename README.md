@@ -1,10 +1,12 @@
 # Hello, I'm Art Romera
 <a href="[https://linkedin.com](https://www.linkedin.com/in/art-romera-a38326261/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I'm Art Romera, a passionate student pursuing a degree in Computer Information Systems, with a concentration in Information and Cybersecurity Management. As President of James Madison University's Lambda Phi Epsilon, I developed strong leadership skills by fostering community connections and organizing events that promoted Asian cultural awareness and philanthropy.
 
+Through coursework such as Java Programming, Defensive Cybersecurity, and Computer Security Management, I’ve developed a solid foundation in information security, programming, and threat detection. I'm skilled at safeguarding organizational data and systems, ensuring confidentiality, integrity, and availability.
+
+Currently, I'm expanding my knowledge in various programming languages and cybersecurity frameworks while working on projects that challenge me to think creatively and improve continuously. I thrive on solving complex problems and am eager to apply my growing expertise in an organization.
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
