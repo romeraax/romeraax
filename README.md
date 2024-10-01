@@ -8,12 +8,10 @@ Through coursework such as Java Programming, Defensive Cybersecurity, and Comput
 
 Currently, I'm expanding my knowledge in various programming languages and cybersecurity frameworks while working on projects that challenge me to think creatively and improve continuously. I thrive on solving complex problems and am eager to apply my growing expertise in an organization.
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in Computer Information Systems has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -25,7 +23,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -58,5 +55,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
+- Keylogger Penetration Testing
+- Oracle Virtual Machine
+- Kali Linux
 - Detection Lab
 - SOC Automation Project
